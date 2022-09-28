@@ -2,6 +2,8 @@
 
 Hello, I'm tylersfoot, and I just started coding lol (i suck)
 
+---
+
 <div id="badges">
   <a href="your-linkedin-URL">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -13,6 +15,8 @@ Hello, I'm tylersfoot, and I just started coding lol (i suck)
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
+
+---
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
@@ -32,8 +36,13 @@ Hello, I'm tylersfoot, and I just started coding lol (i suck)
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
+---
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tylersfoot&theme=dark&background=000000)](https://git.io/streak-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tylersfoot&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+---
 
 <div id="header" align="center">
   <a href="https://en.wikipedia.org/wiki/Wild_boar">
