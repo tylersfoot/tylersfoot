@@ -1,3 +1,5 @@
+<img src="https://komarev.com/ghpvc/?username=tylersfoot&style=flat-square&color=red" alt=""/>
+
 Hello, I'm tylersfoot, and I just started coding lol (i suck)
 
 <div id="badges">
