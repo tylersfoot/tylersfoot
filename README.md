@@ -45,7 +45,7 @@ Hello, I'm tylersfoot, and I just started coding lol (i suck)
 ---
 
 <div id="header" align="center">
-  <a href="https://en.wikipedia.org/wiki/Wild_boar">
+  <a href="https://www.google.com/search?q=big+buff+beefy+men&rlz=1C1GCEA_enUS1025US1025&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiWjoXmnrj6AhVVIn0KHY9SB30Q_AUoAXoECAEQAw&biw=1366&bih=625">
     <img src="https://c.tenor.com/RXfkIRCYSzgAAAAC/hog-boar-emoji-mindblown-mind-blown-slideshow-meme.gif" width="100"/>
   </a>
 </div>
