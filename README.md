@@ -1,7 +1,10 @@
 <img src="https://komarev.com/ghpvc/?username=tylersfoot&style=flat-square&color=red" alt=""/>
 
 hi, im tylersfoot, and I am a beginner programmer :D
-I loooove python
+
+check out my awesome website for more info about me
+
+https://tylersfoot.dev/
 
 
 ---
