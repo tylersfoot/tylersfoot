@@ -1,12 +1,10 @@
-<img src="https://komarev.com/ghpvc/?username=tylersfoot&style=flat-square&color=red" alt=""/>
-
 hi, im tylersfoot, and I am a beginner programmer :D
 
 check out my awesome website for more info about me
 
 https://tylersfoot.dev/
 
-
+<!--
 ---
 
 <div id="badges">
@@ -14,11 +12,20 @@ https://tylersfoot.dev/
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
 </div>
-
+-->
 ---
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tylersfoot&theme=dark&background=000000)](https://git.io/streak-stats)
+<div>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=tylersfoot&theme=radical&hide_rank=true" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tylersfoot&layout=compact&theme=radical" />
+  </a>
+</div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tylersfoot&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/convoychat">
+  <img width=500 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=tylersfoot&layout=compact&theme=radical&langs_count=10" />
+</a>
 
 ![](https://osu-sig.vercel.app/card?user=tylersfoot&mode=mania&lang=en&blur=6&animation=true&hue=125&mini=false)
