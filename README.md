@@ -27,5 +27,3 @@ https://tylersfoot.dev/
 <a href="https://github.com/anuraghazra/convoychat">
   <img width=500 align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=tylersfoot&layout=compact&theme=radical&langs_count=10" />
 </a>
-
-![](https://osu-sig.vercel.app/card?user=tylersfoot&mode=mania&lang=en&blur=6&animation=true&hue=125&mini=false)
